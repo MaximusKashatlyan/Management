@@ -1,0 +1,16 @@
+body {
+ 	width: 100%;
+ 
+}
+
+img {
+    max-width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 0 3px #999;  }
+h1 {
+    font-size: 25px;
+      color: black;
+    transition: color .5s;
+text-align:center}
+p {	margin: 18px 0; }
+.center {display:block; margin:0 auto;}
